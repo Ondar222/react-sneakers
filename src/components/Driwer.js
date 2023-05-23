@@ -1,5 +1,7 @@
 function Driwer () {
     return(
+      <div className="overlay" style={{ display: "none" }}>
+    
         <div className="driwer">
         <h2>Корзина     <img
           className="btnRemove"
@@ -54,6 +56,7 @@ function Driwer () {
             </button>
           </div>
         </div>
+      </div>
       </div>
   
   
