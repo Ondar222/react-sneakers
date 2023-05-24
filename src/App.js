@@ -25,7 +25,7 @@ function App() {
       <Header />
       <div className="content">
         <div className="content__search__container">
-          <h1 className="heading__first__sneakers">Все кроссовки</h1>
+          <h1 className="heading__first__sneakers">Все кроссовкrrи</h1>
           <div className="search-block">
             <input className="placeholder__search" placeholder="Поиск..." />
           </div>
